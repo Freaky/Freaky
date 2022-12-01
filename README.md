@@ -4,7 +4,7 @@ You can find me on a few other places, including:
 
 |Where|What|
 |-|-|
-|Mastodon|<a rel="me" href="https://mas.to/@Freaky">@Freaky@mas.to</a>|
+|Mastodon|<a rel="me" href="@Freaky@hachyderm.io">@Freaky@hachyderm.io</a>|
 |cohost.org|[@Freaky](https://cohost.org/Freaky)|
 |Reddit|Freeky|
 |HN|Freaky|
