@@ -6,7 +6,6 @@ You can find me on a few other places, including:
 |-|-|
 |Mastodon|<a rel="me" href="https://hachyderm.io/@Freaky">@Freaky@hachyderm.io</a>|
 |BlueSky|[@hur.st](https://bsky.app/profile/hur.st)|
-|cohost.org|[@Freaky](https://cohost.org/Freaky)|
 |Reddit|Freeky|
 |HN|Freaky|
 |lobste.rs|Freaky|
